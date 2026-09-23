@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+#main-nav > a { 
+       background-color: rgba(94, 190, 190, 0.742);
+}
+body {
+       background-color: rgb(243, 247, 199);
+}
+       #main-nav > a{ 
+        color:rgb(0, 0, 0);
+       display: inline-block;
+       padding: 1em;
+       font-size: 1.5rem;
+        textfield-decoration: none;
+        transition: all ease-in-out 500ms;
+       }
+
+       #main-nav > a:hover {
+        color: rgb(255, 255, 255);
+        background-color: rgba(32, 112, 165, 0.76);
+       }
+
+
+
